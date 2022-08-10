@@ -5,4 +5,4 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/nobel6018)](https://github.com/nobel6018)
 [![Github Badge](https://img.shields.io/badge/-Resume-blue?logo=Apache&link=https://bit.ly/3ydM6iJ)](https://v3.leedo.me/resume)
 
-![YoungHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobel6018&show_icons=true&count_private=true&theme=github_dark)
+![YoungHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobel6018&show_icons=true&count_private=true&theme=radical)
